@@ -1,9 +1,9 @@
 flask
 flask-cors
-tensorflow
 numpy
 scikit-learn
 pillow
 matplotlib
 seaborn
 gunicorn
+tensorflow-cpu==2.15.0
